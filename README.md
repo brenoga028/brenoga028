@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brenoga028
 - 👀 I’m interested in estudar
-- 🌱 I’m currently learning nada
-- 💞️ I’m looking to collaborate on estudar
+- 🌱 querendo aprogramar e aprender
+- 💞️estou aprendendo aprogramar no JavaScrapit
 - 📫 How to reach me nada
 
 <!---
